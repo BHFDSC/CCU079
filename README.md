@@ -21,7 +21,7 @@ The results of this study will help us know which diagnoses children and young p
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-> Links to follow once outputs have been submitted to a preprint server and/or submitted to a journal.
+* [CCU079_01: Risk of new diagnoses in secondary care following SARS-CoV-2 and other respiratory infections among school-aged individuals in England](https://github.com/BHFDSC/CCU079_01)
 
 ## Project approval
 
